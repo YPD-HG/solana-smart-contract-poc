@@ -1,0 +1,9 @@
+[programs.localnet]
+helloworld = "H3LLo111111111111111111111111111111111111111"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "npx ts-mocha -p tsconfig.json -t 1000000 tests/helloworld.ts"
