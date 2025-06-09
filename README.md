@@ -1,6 +1,6 @@
 # 🚀 solana-airdrop
 
-This is a simple TypeScript project that demonstrates how to request an airdrop of SOL on the **local Solana test validator (localnet)** using the `@solana/web3.js` library.
+This is a simple Rust based project that demonstrates how to request an airdrop of SOL on the **local Solana test validator (localnet)** using the `@solana/web3.js` library.
 
 It’s meant to be a hands-on, intuitive way to understand how Solana wallets and airdrops work.
 
